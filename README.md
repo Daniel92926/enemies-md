@@ -50,7 +50,7 @@ npm install
 sh start.sh
 ```
 
-### `—◉ ✔️ ATTIVA IN TERMUX ✔️`
+### `—◉ ✔️ AVVIA IN TERMUX ✔️`
 ```bash
 DIGITA QUESTI COMANDI:
 > cd 
