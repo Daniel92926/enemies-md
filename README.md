@@ -1,16 +1,16 @@
-# `🛡️⃟🏴‍☠️ 𝐄ИΞM𝕀Ξ𝐒 🛡️⃟🏴‍☠️ ᵇᵒᵗ`
+# `🛡️⃟🏴‍☠️ 𝐄ИΞM𝕀Ξ𝐒 🛡️⃟🏴‍☠️ 𝐁Ꮻ𝐓`
   
 ### `—◉ 💥 ATTIVA SU KOYEB 💥`
 
-[![Deploy to Koyeb](https://www.koyeb.com/static/images/deploy/button.svg)](https://app.koyeb.com/deploy?type=git&repository=github.com/machecazzoneso/enemies-md&branch=master&name=mysticbot)
+[![Attiva su Koyeb](https://www.koyeb.com/static/images/deploy/button.svg)](https://app.koyeb.com/deploy?type=git&repository=github.com/machecazzoneso/enemies-md&branch=master&name=mysticbot)
   
 ### `—◉ 🌌 ATTIVA SU REPLIT 🌌`
 
-[![Run on Repl.it](https://repl.it/badge/github/machecazzoneso/enemies-md)](https://repl.it/github/machecazzoneso/enemies-md)  
+[![Attiva su Repl.it](https://repl.it/badge/github/machecazzoneso/enemies-md)](https://repl.it/github/machecazzoneso/enemies-md)  
 
 ### `—◉ ⚙️ CONFIGURAZIONE ⚙️`
-- CLONARE LA REPOSITORY [Aqui](https://github.com/machecazzoneso/enemies-md/fork)
-- CAMBIARE NUMERO DEL PROPRIETARIO [Aqui](https://github.com/machecazzoneso/enemies-md/blob/master/config.js)
+- CLONARE LA REPOSITORY [qui](https://github.com/machecazzoneso/enemies-md/fork)
+- CAMBIARE NUMERO DEL PROPRIETARIO [qui](https://github.com/machecazzoneso/enemies-md/blob/master/config.js)
 
 ### `—◉ 👾 ATTIVA IN TERMUX 👾` 
 - DIGITA QUESTI COMANDI:
